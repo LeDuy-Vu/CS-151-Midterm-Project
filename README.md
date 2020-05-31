@@ -1,1 +1,2 @@
 # CS-151-Midterm-Project
+For the midterm from my Object-Oriented Design class, I learned the process to create a simulated voicemail system from the book "Object-Oriented Design and Patterns" by Cay Horstmann. I revised the project myself and implemented a slightly different version. Compared to the original version, the new implementation has an admin who can create new extensions and change passwords. An extension owner and change and record greetings. More details can be found in my Design Phase.
